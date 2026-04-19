@@ -1,3 +1,6 @@
+Список теперь ведётся в рамках [etar125.ru](https://github.com/etar125/etar125.ru).
+---
+
 # sysdfree
 Это сайт с systemd-free Linux дистрибутивами и BSD.  
 
